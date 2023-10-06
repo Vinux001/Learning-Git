@@ -1,1 +1,15 @@
+# Linux Commands
+pwd
+cd
+ls
+ll - to list more details about the directory
+mkdir
+touch - to make files
+  Readme.md
+  Vishal.txt
+cat - to print the content of file
+nano - to edit files from terminal
 
+# Now Git Commands - 
+git init
+git commit
