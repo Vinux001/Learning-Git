@@ -14,3 +14,4 @@ Information Technology
 
 - Btech from NIT Srinagar
 - Secondary High School from DDPS
+- High School from JVPS
