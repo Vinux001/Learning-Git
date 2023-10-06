@@ -20,4 +20,15 @@
   git commit -a -m "message"
 - *.txt : search for .txt file (Pattern Searching)
 - git restore --staged _file_name_ 
+- git remote add origin (HTTPS_Key)
+- git remote
+- git remote -v
+  
+# Git Config
+- git config --list
+- git config --global user.name "_name_"
+- git config --global user.email "_email_"
+
+# Shortcut
+- repo.new
 
