@@ -1,7 +1,11 @@
-# Learning-Git
+# Project Name - Learning-Git
 
-Resume
+## Resume
 
-Name - Vinayak Singhal
+### Name
 
-Branch - Information Technology
+Vinayak Singhal
+
+### Branch
+
+Information Technology
