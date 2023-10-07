@@ -13,6 +13,7 @@
 # Git Commands
 - git init : to intialize the git.
 - git status : tells about the status of file.
+- git log - to check history of git commits
 - git add : to transfer file from working directory area to staging area.
 - git commit :
   to send file from staging area to commit area.
@@ -23,11 +24,17 @@
 - git remote add origin (HTTPS_Key)
 - git remote
 - git remote -v
+- git branch _branch_name_ : to create a branch
+- git checkout _branch_name_ : then to move to that branch
+- git checkout -b _branch_name_ : directly make branch then jump to it
+- git merge  _branch_name_
+
   
 # Git Config
 - git config --list
 - git config --global user.name "_name_"
 - git config --global user.email "_email_"
+- git config --global init.defaultbranch "main"
 
 # Shortcut
 - repo.new
