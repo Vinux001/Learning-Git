@@ -3,7 +3,9 @@
 - cd
 - ls
 - ll : to list more details about the directory
+- clear - to clear the terminal
 - mkdir
+- code . - to open vs code for this folder
 - touch : to make files
   - Readme.md
   - Vishal.txt
