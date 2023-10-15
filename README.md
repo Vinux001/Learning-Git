@@ -3,8 +3,10 @@ Git is a version control system that is used for tracking changes in computer fi
 
 [Git for All Platforms](https://git-scm.com)
 
-[Setup](#SETUP)
-[Setup & Init](#SETUP & INIT)
+- [Setup](#SETUP)
+- [Init](#INIT)
+- [Stage & Snapshot](#STAGE)
+  
 
 ## SETUP
 Configuring user information used across all local repositories.
@@ -17,7 +19,7 @@ set an email address that will be associated with each history marker.
 set automatic command line coloring for Git for easy reviewing.
 
 
-## SETUP & INIT
+## INIT
 Configuring user information, initializing and cloning repositories.
 ### git init
 initialize an existing directory as a Git repository.
