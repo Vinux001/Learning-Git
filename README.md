@@ -2,6 +2,7 @@
 Git is a version control system that is used for tracking changes in computer files and coordinating work on those files among multiple people. It is a distributed version control system, which means that it allows multiple users to work on the same files simultaneously and keeps track of changes made to the files by each user. Git is widely used in software development and has become a standard tool for collaborating on code.
 
 [Git for All Platforms](https://git-scm.com)
+[Setup](##SETUP)
 
 ## SETUP
 Configuring user information used across all local repositories.
