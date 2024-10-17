@@ -94,8 +94,8 @@ system wide ignore pattern for all local repositories.
 
 ## SHARE & UPDATE
 Retrieving updates from another repository and updating local repository.
-### git remote add [alias] [URL]
-add a git URL as an alias.
+### git remote add origin [URL]
+add a git URL, to which you want to connect
 ### git fetch [alias]
 fetch down all the branches from that Git remote.
 ### git merge [alias]/[branch]
