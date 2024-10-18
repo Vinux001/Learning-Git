@@ -5,10 +5,6 @@
 - for tracking changes in code
 - for collaboration among multiple people on a single project simultaneously.
 
-- [Setup](##SETUP)
-- [Init](##INIT)
-- [Stage & Snapshot](##STAGE)
-  
 
 ## SETUP
 Configuring user information used across all local repositories.
